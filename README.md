@@ -49,8 +49,8 @@ Seu projeto será avaliado de acordo com os seguintes critérios:
 
 # Sugestões de ferramentas #
 * Framework Web/Backend: https://nextjs.org/
+* Hospedagem (Deploy do NextJS): https://vercel.com/
 * Framework para Banco de dados: https://supabase.com/
-* Framework Hospedagem(Deploy): https://vercel.com/
 * Framework de Interface https://ant.design/ ou https://nextui.org/
 
 # Referência
