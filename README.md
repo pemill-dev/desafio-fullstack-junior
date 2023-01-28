@@ -6,7 +6,7 @@ Por favor leiam este documento com muita atenção. O intuito do desafio é aval
 1. Primeiro, crie um repositório público no Github (crie uma conta se você não possuir).
 2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu ambiente local.
 3. Faça o envio(push) do seu projeto local para um repositório **público** no Github.
-4. Por fim, envie um via e-mail com o link do projeto em seu repositório para o contato brendon@pemill.com.br e rh@pemill.com.br
+4. Por fim, envie um via e-mail com o link do projeto em seu repositório para os contatos brendon@pemill.com.br e rh@pemill.com.br
 
 # O desafio será: Criar uma aplicação de listagem de tarefas
 
@@ -33,7 +33,7 @@ Avaliação:
 
 * Organização e clareza do código
 * Uso correto do Next.js e TypeScript
-* Funcionamento das funcionalidades implementadas
+* Funcionamento das implementações
 * Boas práticas de programação e performance
 
 Dicas:
