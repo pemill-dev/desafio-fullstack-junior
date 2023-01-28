@@ -1,57 +1,45 @@
-# Desafio de programação - Vaga Fullstack (Junior)
+# Desafio de programação (Junior)
 
-Por favor leiam este documento com muita atenção. O intuito do desafio é avaliar seus conhecimentos técnicos de JavaScript, sendo mais específico na utilização de Node.JS e ReactJS.
+Por favor leiam este documento com muita atenção. O intuito do desafio é avaliar seus conhecimentos técnicos de JavaScript/Typescript.
 
 # Instruções de entrega do desafio
 1. Primeiro, crie um repositório público no Github (crie uma conta se você não possuir).
 2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu ambiente local.
-3. Faça o push(envio) do seu projeto local para um repositório público no Github.
+3. Faça o envio(push) do seu projeto local para um repositório **público** no Github.
 4. Por fim, envie um via e-mail com o link do projeto em seu repositório para o contato brendon@pemill.com.br e rh@pemill.com.br
 
-# Descrição do projeto
-Você deverá criar uma tela de cadastro de Empresas, lembrando que cada empresa poderá conter vários contatos vinculados. 
-
-***OBS: Você pode utilizar a linguagem/frameworks de sua preferência. Lembrando que a utilização do Framework Next.JS será um grande diferencial***
-
-1. Desenvolver uma tela de cadastro de empresa com os seguintes campos:
-* ID da Empresa
-* Empresa
-* E-mails
-* Telefones
-* Data de registro (data em que a empresa foi inserida)
-
-2. Uma tela para cadastro de contato com os seguintes campos:
-* ID da Empresa 
-* ID do Contato
-* Nome completo
-* E-mails
-* Telefones
-
-3. Tanto a tela de empresa quando a de contato devem ter as operações básicas de um CRUD (criar/editar/visualizar/excluir).
-4. Uma empresa poderá ter mais de um contato vinculada a ela.
-5. A tela de cliente deverá possuir um campo de busca por nome do cliente.
+# O desafio será: Criar uma aplicação de listagem de tarefas
 
 
-**Diferenciais:**
+Objetivo:
 
-1. Ter uma documentação clara do projeto (Arquivo README.md).
-2. Apresentar um layout responsível (Pode utilizar frameworks para auxiliar (Ant Desing por exempo).
-3. Utilização de TypeScript.
+* Criar uma aplicação web usando o framework Next.js
+* Utilizar TypeScript como linguagem de programação
+* A aplicação deve permitir ao usuário adicionar, editar e remover tarefas
+* As tarefas devem ser armazenadas em um banco de dados PostgreSQL (ex: Supabase https://supabase.com/)
+* Deve ser possível filtrar as tarefas por status (concluídas/não concluídas)
 
-# Avaliação
+Instruções:
 
-Seu projeto será avaliado de acordo com os seguintes critérios:
+* Inicie o projeto com o comando `npx create-next-app@latest --typescript` em uma branch com seu nome (ex: "brendon-dos-reis-carvalho")
+* Configure a conexão com um banco de dados PostgreSQL
+* Crie as tabelas necessárias para armazenar as tarefas
+* Implemente as funcionalidades de adicionar, editar e remover tarefas
+* Adicione a funcionalidade de filtrar as tarefas por status
+* Faça um pull request para o repositório original com sua solução
+* Publique sua aplicação(Deploy) na Vercel (https://vercel.com/)
 
-1. Sua aplicação preenche os requerimentos básicos?
-2. Você documentou a maneira de configurar o ambiente e rodar sua aplicação?
-3. Você seguiu as instruções de envio do desafio?
+Avaliação:
 
+* Organização e clareza do código
+* Uso correto do Next.js e TypeScript
+* Funcionamento das funcionalidades implementadas
+* Boas práticas de programação e performance
 
-# Sugestões de ferramentas #
-* Framework Web/Backend: https://nextjs.org/
-* Hospedagem (Deploy do NextJS): https://vercel.com/
-* Framework para Banco de dados: https://supabase.com/
-* Framework de Interface https://ant.design/ ou https://nextui.org/
+Dicas:
 
-# Referência
-Este desafio foi baseado neste outro desafio: https://github.com/Pagnet/desafio-back-end
+* Faça uso das funcionalidades do Next.js, como o uso de Rotas e SSR
+* Utilize os recursos do TypeScript, como tipagem e interfaces
+* A documentação do NextJS disponível no site https://nextjs.org/docs/ poderá lhe ajudar bastante na resolução do desafio
+
+Boa sorte!
