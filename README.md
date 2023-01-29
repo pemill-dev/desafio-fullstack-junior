@@ -1,4 +1,4 @@
-# Desafio de programação (Junior)
+# Desafio de programação (Júnior)
 
 Por favor leiam este documento com muita atenção. O intuito do desafio é avaliar seus conhecimentos técnicos de JavaScript/Typescript.
 
@@ -41,5 +41,6 @@ Dicas:
 * Faça uso das funcionalidades do Next.js, como o uso de Rotas e SSR
 * Utilize os recursos do TypeScript, como tipagem e interfaces
 * A documentação do NextJS disponível no site https://nextjs.org/docs/ poderá lhe ajudar bastante na resolução do desafio
+* A utilização de ferramentas de IA para a sugestão de código irá te desclassificar do processo seletivo, uma vez que a pré-análise do código será feita utilizando ferramentas da OpenIA a fim de detectar plágios e códigos gerados de forma automática. 
 
 Boa sorte!
